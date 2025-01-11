@@ -59,7 +59,6 @@
 - *LinkedIn*: [linkedIn profile](https://www.linkedin.com/in/raj-yadav-661665320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 )
 - *GitHub*: [github.com/Raj-ya664](https://github.com/Raj-ya664)
-- 
 
 ---
 
