@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) 
-![Version](https://img.shields.io/badge/Version-1.0.0-blue-500?style=for-the-badge)
+![Forks](https://img.shields.io/badge/Forks-50-indigo-500?style=for-the-badge)
 
 
 
