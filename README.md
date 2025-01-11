@@ -51,7 +51,7 @@
 ## 🌟 My Projects:
 -  *[Sales Dashboard](#)*: A dynamic dashboard for tracking sales performance (Coming Soon!)
 -  Todo : HTML CSS and javascript
--  Calender : HTML CSS and javaSCript
+-  Calender : HTML CSS and javaScript
 
 ---
 
