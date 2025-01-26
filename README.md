@@ -15,7 +15,7 @@
 - 🌱 Exploring data visualization tools like Tableau and Power BI.
 
 ---
-#My Skills
+
 
 ## 🚀 Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
