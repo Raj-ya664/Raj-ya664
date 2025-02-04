@@ -12,7 +12,7 @@
 - 🎓 I'm pursuing Data Science and love solving real-world problems with data.
 - 🛠️ I have experience in *HTML, **CSS, **JavaScript, **React, and **Node.js*.
 - 📚 Currently focusing on *JavaScript mastery* and *Python for data analysis*.
-- 🌱 Exploring data visualization tools like Tableau and Power BI.
+-  Exploring data visualization tools like Tableau and Power BI.
 
 ---
 
