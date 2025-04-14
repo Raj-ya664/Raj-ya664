@@ -6,7 +6,7 @@
 🌱 *Learning*: Data Structures, JavaScript, and Python  
 🎯 *Goal*: Build skills for impactful data analysis projects
    
----   
+---    
 
 ## 👩‍💻 About Me:
 - 🎓 I'm pursuing Data Science and love solving real-world problems with data.
