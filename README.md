@@ -31,7 +31,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
+![Seaborn](https://img.shields.io/badge/Seaborn-2E6E9E?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ## 🛠️ Tools and Frameworks:
 
