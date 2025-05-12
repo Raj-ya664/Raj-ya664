@@ -52,6 +52,10 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT%20Token-%F0%9F%94%90%20Secure-FF0066?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+
+
+
 ## Database 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
