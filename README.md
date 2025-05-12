@@ -50,6 +50,8 @@
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF5722?style=for-the-badge&logo=figma&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Token-%F0%9F%94%90%20Secure-FF0066?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 ## Database 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
