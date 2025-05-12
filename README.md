@@ -59,7 +59,7 @@
 
 ## Cloud 
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?logo=alibaba-cloud&logoColor=white&style=for-the-badge)
-
+![AWS](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="120"/>
 
 
