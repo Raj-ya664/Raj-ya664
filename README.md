@@ -71,6 +71,8 @@
 ## Skill Badges 
 ---
 
+<img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"/>
+
 ## 🌟 My Projects:
 -  *[Sales Dashboard](#)*: A dynamic dashboard for tracking sales performance (Coming Soon!)
 -  Todo : HTML CSS and javascript
