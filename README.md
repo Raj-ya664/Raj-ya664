@@ -71,9 +71,7 @@
 ## Skill Badges 
 ---
 
-<img height =130px src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"/>
-
-<img height =130px src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
+<img height =130px src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"/><img height =130px src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
 
 ## 🌟 My Projects:
 -  *[Sales Dashboard](#)*: A dynamic dashboard for tracking sales performance (Coming Soon!)
