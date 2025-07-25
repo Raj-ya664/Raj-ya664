@@ -68,7 +68,7 @@
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?logo=alibaba-cloud&logoColor=white&style=for-the-badge)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-<img  height=33px  width =60px src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="120"/>
+<img  height=31px  width =60px src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="120"/>
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Skill Badges 
