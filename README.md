@@ -76,9 +76,7 @@
 ---
 
 <img height =120px src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"/><img height =120px src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
-<img height =120px src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/0f955028-4823-40e6-a22e-8bf0bdfa07e9.png"/>
-
-<img height =130px src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/kicupcaijp0kyzvg9hm3cf4koq78?sp=r&sv=2024-05-04&se=2025-08-30T17%3A51%3A47Z&sr=b&rscd=inline%3B+filename%3D%22GitHub+Foundations+Badge.png%22%3B+filename*%3DUTF-8%27%27GitHub%2520Foundations%2520Badge.png&rsct=image%2Fpng&sig=dYy7GZ7kGQV3tfiJpQWLd9LEoc%2BVjKYHFQiIO7N75ss%3D"/>
+<img height =120px src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/0f955028-4823-40e6-a22e-8bf0bdfa07e9.png"/><img height =130px src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/kicupcaijp0kyzvg9hm3cf4koq78?sp=r&sv=2024-05-04&se=2025-08-30T17%3A51%3A47Z&sr=b&rscd=inline%3B+filename%3D%22GitHub+Foundations+Badge.png%22%3B+filename*%3DUTF-8%27%27GitHub%2520Foundations%2520Badge.png&rsct=image%2Fpng&sig=dYy7GZ7kGQV3tfiJpQWLd9LEoc%2BVjKYHFQiIO7N75ss%3D"/>
 ## 🌟 My Projects:
 -  *[Sales Dashboard](#)*: A dynamic dashboard for tracking sales performance (Coming Soon!)
 -  Todo : HTML CSS and javascript
