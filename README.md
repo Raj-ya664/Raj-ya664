@@ -35,6 +35,7 @@
 
 # 🛠️ Tools and Frameworks:
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-white?style=for-the-badge&logo=tensorflow&logoColor=000000)
 ![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-20232A?style=for-the-badge&logo=jupyter&logoColor=F37626)
