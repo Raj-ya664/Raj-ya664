@@ -72,9 +72,12 @@ pp
 ## aws
 <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/11/09/IAMb.png" height="31px"/>
 ## Cloud 
+--
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?logo=alibaba-cloud&logoColor=white&style=for-the-badge)
 
-
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img  height=31px  width =60px src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="120"/>
 
 ## Skill Badges 
 ---
