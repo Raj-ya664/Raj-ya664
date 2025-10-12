@@ -1,4 +1,4 @@
-   
+pp   
 # Hi there, I'm Raj Yadav! 👋 
   
 🌟 *Aspiring Gen* *Ai* *Engineer* | 📊 Passionate about data-driven solutions  
@@ -70,7 +70,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ## aws
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-1E1E1E?style=for-the-badge&logo=amazonaws&logoColor=D32F2F)
 ## Cloud 
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?logo=alibaba-cloud&logoColor=white&style=for-the-badge)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
