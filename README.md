@@ -70,8 +70,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ## aws
-<img width="39px" height="31px" alt="17607940099685832893197464262157" src="https://github.com/user-attachments/assets/d259b780-59d4-471a-b990-2d677fc055db" />
-<img width="39px" height="31px" alt="1760794312418206043561958347446" src="https://github.com/user-attachments/assets/094d6f01-33df-4cb0-a8cc-b6bb0b6b494f" />
+<img width="39px" height="39px" alt="17607940099685832893197464262157" src="https://github.com/user-attachments/assets/d259b780-59d4-471a-b990-2d677fc055db" />
+<img width="39px" height="39px" alt="1760794312418206043561958347446" src="https://github.com/user-attachments/assets/094d6f01-33df-4cb0-a8cc-b6bb0b6b494f" />
 
 
 ## Cloud 
