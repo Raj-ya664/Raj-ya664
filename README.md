@@ -90,6 +90,9 @@
 <img width="39px" height="39px" alt="17607945827214502513484435227846" src="https://github.com/user-attachments/assets/4a9277a8-60a8-40f2-bdf1-ebd74bb0d093" />
 <img width="39px" height="39px" alt="17607946665702342094151105837405" src="https://github.com/user-attachments/assets/d36c81fe-70b8-4336-8937-347464d43cfe" />
 
+<img width="39px" height="39px" alt="1760795787804939683580890573591" src="https://github.com/user-attachments/assets/2b0b8a47-7536-466a-8a53-560bdf2042a2" />
+
+<img width="39px" height="39px" alt="17607958550258275888366610449334" src="https://github.com/user-attachments/assets/1b0020ce-1518-4e87-8f64-1be6b47df717" />
 
 ## Cloud 
 --
