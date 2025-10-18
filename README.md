@@ -72,6 +72,7 @@
 ## aws
 <img width="39px" height="39px" alt="17607940099685832893197464262157" src="https://github.com/user-attachments/assets/d259b780-59d4-471a-b990-2d677fc055db" />
 <img width="39px" height="39px" alt="1760794312418206043561958347446" src="https://github.com/user-attachments/assets/094d6f01-33df-4cb0-a8cc-b6bb0b6b494f" />
+<img width="39px" height="39px" alt="1760794479831138180745579496114" src="https://github.com/user-attachments/assets/0f374242-8ac2-4b24-bcc6-b04f50e17b90" />
 
 
 ## Cloud 
