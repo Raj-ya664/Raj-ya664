@@ -39,6 +39,7 @@
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-20232A?style=for-the-badge&logo=jupyter&logoColor=F37626)![YAML](https://img.shields.io/badge/YAML-FFD600?style=for-the-badge&logo=file&logoColor=black)
 ![Mathematics](https://img.shields.io/badge/Mathematics-008080?style=for-the-badge&logo=latex&logoColor=white)
