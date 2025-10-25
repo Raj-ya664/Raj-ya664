@@ -44,6 +44,7 @@
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-20232A?style=for-the-badge&logo=jupyter&logoColor=F37626)![YAML](https://img.shields.io/badge/YAML-FFD600?style=for-the-badge&logo=file&logoColor=black)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=00C853)
 ![Mathematics](https://img.shields.io/badge/Mathematics-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
