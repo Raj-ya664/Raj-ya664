@@ -1,7 +1,7 @@
       
 # Hi there, I'm Raj Yadav! 👋 
   
-🌟 *Aspiring Full-Stack-Developer* *Engineer* | 📊 Passionate about data-driven solutions  
+🌟 *Full-Stack-Developer* *Engineer* | 📊 Passionate about data-driven solutions  
 💻 Currently a 7th-semester Data Science student at RGPV  
 🌱 *Learning*: Data Structures, JavaScript, and Python  
 🎯 *Goal*: Build skills for impactful data analysis projects
